@@ -1,10 +1,10 @@
 # Django
-Django[argon2]==6.0a1
-python-dotenv==1.1.1
+Django[argon2]==6.0b1
+python-dotenv==1.2.1
 
 # asgi server
 channels[daphne]==4.3.1
 
 # S3 Storage
 django-storages==1.14.6
-boto3==1.40.50
+boto3==1.40.70
