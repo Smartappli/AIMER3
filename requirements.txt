@@ -1,5 +1,5 @@
 # Django
-Django[argon2]==6.0rc1
+Django[argon2]==6.0
 python-dotenv==1.2.1
 
 # asgi server
